@@ -1,0 +1,5 @@
+Projeto desenvolvido para estudo de versionamento em TI.
+
+por Ana Clara
+
+05/05/22 - Início e Criação do Projeto Versionamento, Utilização do GIT e GITHUB
